@@ -1,0 +1,12 @@
+[pre-commit-hook]
+limit=10.0
+
+[MASTER]
+ignore=docs
+persistent=yes
+
+[REPORTS]
+output-format=text
+include-ids=yes
+files-output=no
+reports=yes
