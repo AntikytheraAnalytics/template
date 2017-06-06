@@ -1,24 +1,110 @@
-This is free and unencumbered software released into the public domain.
+1. General. The software, documentation and any fonts accompanying this License
+whether on disk, in read only memory, on any other media or in any other form 
+(collectively the “Software”) are licensed, not sold, to you by Antikythera 
+Analytics (“Antikythera”) for use only under the terms of this License, and 
+Antikythera reserves all rights not expressly granted to you. The rights 
+granted herein are limited to Antikythera’s intellectual property rights in the
+Software and do not include any other patents or intellectual property rights. 
+You own the media on which the Software is recorded but Antikythera and/or 
+Antikythera’s licensor(s) retain ownership of the Software itself.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+2. Permitted License Uses and Restrictions. This License allows you to install and
+use unlimited copies of the Software on multiple devices or computers at a time
+or make the Software available over a network where it could be used by multiple
+devices or multiple computers at the same time. 
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+3. Transfer and modification. You may not rent, lease, lend or sublicense the
+Software without sufficient modification and such modification frees Antikythera
+of any liability to the original software. 
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+4. Termination. This License is effective until terminated. Your rights under
+this License will terminate automatically without notice from Antikythera if
+you fail to comply with any term(s) of this License. Upon the termination of
+this License, you shall cease all use of the Antikythera Software and destroy
+all copies, full or partial, of the Antikythera Software.
 
-For more information, please refer to <http://unlicense.org>
+5. Limited Warranty on Media. Antikythera warrants the media on which the
+Software is recorded and delivered by Antikythera to be free from defects in
+materials and workmanship under normal use for a period of ninety (90) days from
+the date of original retail purchase. Your exclusive remedy under this Section
+shall be, at Antikythera’s option, either a refund of the purchase price of the
+product containing the Software or replacement of the Software which is returned 
+to Antikythera. THIS LIMITED WARRANTY AND ANY IMPLIED WARRANTIES ON THE MEDIA
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND OF
+FITNESS FOR A PARTICULAR PURPOSE, ARE LIMITED IN DURATION TO NINETY (90) DAYS
+FROM THE DATE OF ORIGINAL RETAIL PURCHASE. SOME JURISDICTIONS DO NOT ALLOW 
+LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY
+NOT APPLY TO YOU. THE LIMITED WARRANTY SET FORTH HEREIN IS THE ONLY WARRANTY 
+MADE TO YOU AND IS PROVIDED IN LIEU OF ANY OTHER WARRANTIES (IF ANY) CREATED BY
+ANY DOCUMENTATION OR PACKAGING. THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL 
+RIGHTS, AND YOU MAY ALSO HAVE OTHER RIGHTS WHICH VARY BY JURISDICTION.
+
+6. Disclaimer of Warranties. YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE
+SOFTWARE IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY 
+QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU. EXCEPT FOR THE LIMITED
+WARRANTY ON MEDIA SET FORTH ABOVE AND TO THE MAXIMUM EXTENT PERMITTED BY 
+APPLICABLE LAW, THE SOFTWARE IS PROVIDED “AS IS”, WITH ALL FAULTS AND WITHOUT 
+WARRANTY OF ANY KIND, AND DANGER AND DANGER’S LICENSORS (COLLECTIVELY REFERRED
+TO AS “DANGER” FOR THE PURPOSES OF SECTIONS 6 AND 7) HEREBY DISCLAIM ALL 
+WARRANTIES AND CONDITIONS WITH RESPECT TO THE SOFTWARE, EITHER EXPRESS, IMPLIED
+OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR 
+CONDITIONS OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A
+PARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND NON-INFRINGEMENT OF 
+THIRD PARTY RIGHTS. DANGER DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR
+ENJOYMENT OF THE SOFTWARE, THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL
+MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED 
+OR ERRORFREE, OR THAT DEFECTS IN THE SOFTWARE WILL BE CORRECTED. NO ORAL OR 
+WRITTEN INFORMATION OR ADVICE GIVEN BY DANGER SHALL CREATE A WARRANTY. SHOULD 
+THE SOFTWARE PROVE DEFECTIVE, YOU ASSUME THE ENTIRE COST OF ALL NECESSARY
+SERVICING, REPAIR OR CORRECTION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION
+OF IMPLIED WARRANTIES OR LIMITATIONS ON APPLICABLE STATUTORY RIGHTS OF A 
+CONSUMER, SO THE ABOVE EXCLUSION AND LIMITATIONS MAY NOT APPLY TO YOU.
+
+7. Limitation of Liability. TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT 
+SHALL DANGER BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, 
+INDIRECT OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, 
+DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION OR ANY OTHER
+COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY
+TO USE THE SOFTWARE, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY 
+(CONTRACT, TORT OR OTHERWISE) AND EVEN IF DANGER HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OF
+LIABILITY FOR PERSONAL INJURY, OR OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO
+THIS LIMITATION MAY NOT APPLY TO YOU. In no event shall Antikythera’s total 
+liability to you for all damages (other than as may be required by applicable
+law in cases involving personal injury) exceed the amount of fifty dollars 
+($50.00). The foregoing limitations will apply even if the above stated remedy
+fails of its essential purpose.
+
+8. Export Law Assurances. You may not use or otherwise export or reexport the
+Software except as authorized by United States law and the laws of the
+jurisdiction in which the Software was obtained. In particular, but without 
+limitation, the Software may not be exported or re-exported (a) into (or to a 
+national or resident of) any U.S. embargoed countries or (b) to anyone on the 
+U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. 
+Department of Commerce Denied Person’s List or Entity List. By using the 
+Software, you represent and warrant that you are not located in, under control
+of, or a national or resident of any such country or on any such list.
+
+9. Government End Users. The Software and related documentation are “Commercial
+Items”, as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial
+Computer Software” and “Commercial Computer Software Documentation”, as such
+terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable.
+Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4,
+as applicable, the Commercial Computer Software and Commercial Computer Software
+Documentation are being licensed to U.S. Government end users (a) only as 
+Commercial Items and (b) with only those rights as are granted to all other end
+users pursuant to the terms and conditions herein. Unpublished-rights reserved
+under the copyright laws of the United States.
+
+10. Third Party Notices and Conditions. The Software may include or utilize 
+certain software which is owned by various third parties, the source code of
+which is available under the MIT, BSD, or Apache 2.0 Licenses. Antikythera may
+make modifications to the original source code. Terms and conditions of the 
+original source code are fully applicable to the use of those portions of the 
+Software that consist of or are derived from the third party software.
+
+11. Complete Agreement; Governing Language. This License constitutes the entire 
+agreement between the parties with respect to the Software licensed hereunder
+and supersedes all prior or contemporaneous understandings regarding such 
+subject matter. No amendment to or modification of this License will be binding
+unless in writing and signed by Antikythera.
